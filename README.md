@@ -1,6 +1,8 @@
-Our Al doesn't just rely on its training data. With integrated live web search,
-it can access the latest information, data, and sources to provide up-to-
-date and factually accurate answers for your research.
-• Access real-time information and current events.
-• Receive citations and links to original sources.
-• Summarize articles, papers, and reports directly from the web.
+TalkAi is a web-based AI-powered chat application designed to provide real-time, intelligent, and human-like conversations. The system uses modern Artificial Intelligence techniques such as Natural Language Processing (NLP) and Transformer-based models to understand user queries and generate accurate, context-aware responses.
+TalkAi is designed to support multiple real-life use cases such as:
+
+Education – Acts as a virtual tutor and doubt-solving assistant.
+
+Customer Support – Automates responses to customer queries.
+
+Personal Assistance – Helps users manage tasks and retrieve information.
